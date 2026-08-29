@@ -1,2 +1,3 @@
 # Protected-area
-Code related to “Targeting Protection Upgrading: Linking Socio-Ecological Compatibility with Biodiversity Conservation Gaps”
+"Multi-view Natural GNN" contains the code for the model proposed in the manuscript. Specifically, `main.py` contains the model algorithm, while `train.py` contains the code used for model training.
+
